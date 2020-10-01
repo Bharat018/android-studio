@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Tutorial 03</string>
     <string name="txtHeading">Login</string>
-    <string name="EUserName">User name</string>
+    <string name="EUserName">Name</string>
     <string name="loginButton">Login</string>
     <string name="uPsw">Password</string>
     <string name="activityName">Login Page</string>
